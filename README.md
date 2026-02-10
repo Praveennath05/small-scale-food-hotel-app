@@ -42,6 +42,7 @@ A Full Stack MERN (MongoDB, Express.js, React.js, Node.js) web application built
 
 ##  Installation & Setup
 
-### 1️ Clone Repository
+### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/small-scale-food-hotel-app.git
+git clone https://github.com/Praveennath05/small-scale-food-hotel-app.git
+
