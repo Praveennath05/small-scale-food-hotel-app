@@ -31,3 +31,7 @@ Thumbs.db
 *.bat
 RESTART_INSTRUCTIONS.md
 
+# Sensitive payment files
+Front_end/public/qr.png
+
+
